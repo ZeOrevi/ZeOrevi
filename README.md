@@ -1,3 +1,3 @@
 # Orevi
 
-![Languages](https://skillicons.dev/icons?i=python,js,html,css)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=c&logoColor=%23A8B9CC)
