@@ -1,3 +1,3 @@
 # Orevi
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=c&logoColor=%23A8B9CC)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=c)
