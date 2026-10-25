@@ -1,3 +1,3 @@
 # Orevi
 
-![C](https://img.shields.io/badge/style-flat-blue?style=flat)
+![C](https://img.shields.io/badge/language-flat-blue?style=flat)
